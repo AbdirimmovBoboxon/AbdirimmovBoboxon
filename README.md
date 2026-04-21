@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boboxon</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=25&duration=3000&pause=1000&lines=Mobile+(Android+%26+iOS)+Developer;Desktop+Developer;Web+Developer;Flutter+Developer;Always+Learning+Everything;No+Limits+Mindset"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=28&duration=4000&pause=1500&width=600&lines=Mobile+%28Android+%26+iOS%29+Developer;Desktop+Developer;Web+Developer;Flutter+Developer;Always+Learning+Everything;No+Limits+Mindset"/>
 </p>
 
 <h3 align="center">🚀 Developer from Uzbekistan 🇺🇿</h3>
